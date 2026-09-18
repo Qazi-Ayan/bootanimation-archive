@@ -1,6 +1,3 @@
-# bootanimation-archive
-Collection of various boot animations from different sources
-
 # Android Boot Animation Archive
 
 A curated collection of verified, 0%-compression raw `bootanimation.zip` files for custom ROMs (crDroid, LineageOS) and rooted Android devices using **BootStudio** or **Magisk**.
